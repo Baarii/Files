@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\Bari\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name = Baarii
+	email = areebbari12345@gmail.com
+[safe]
+	directory = C:/gamey/mslearn-tailspin-spacegame-web
