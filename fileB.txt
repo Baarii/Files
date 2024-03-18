@@ -1,7 +1,1 @@
 this is file B
-<<<<<<< HEAD
-
-=======
-change numero uno
-change numero dos
->>>>>>> origin/master
