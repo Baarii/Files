@@ -1,1 +1,5 @@
 this is file B
+<<<<<<< HEAD
+=======
+change numero uno
+>>>>>>> Feature123
